@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vitor Mendes
+- Photo: https://avatars3.githubusercontent.com/u/37358976?s=400&u=db7ec8eea46c1fbe270a05892bc772181096214c&v=4
+- Location: Belo Horizonte, Brazil
+- Bio: 📱 Computer Engineering student & Full Stack Developer . 💻 Open Source Contributor. Gamer and life lover
+- Github: https://github.com/Vitor-Mendes
